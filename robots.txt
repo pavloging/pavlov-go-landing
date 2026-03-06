@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://pavlovgo.ru/sitemap.xml
+Sitemap: https://pavlov-go.ru/sitemap.xml
